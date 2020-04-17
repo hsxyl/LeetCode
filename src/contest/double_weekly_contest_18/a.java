@@ -1,4 +1,4 @@
-package double_weekly_contest_18;
+package contest.double_weekly_contest_18;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,9 +1,7 @@
-package weekly_contest_184;
+package contest.weekly_contest_184;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
-import java.util.stream.Stream;
 
 /**
  * <p>题目链接: </p>

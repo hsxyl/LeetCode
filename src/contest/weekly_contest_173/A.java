@@ -1,4 +1,4 @@
-package weekly_contest_173;
+package contest.weekly_contest_173;
 
 /**
  * <p>题目链接: https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/</p>

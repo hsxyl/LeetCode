@@ -1,10 +1,4 @@
-package weekly_contest_184;
-
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
+package contest.weekly_contest_184;
 
 /**
  * <p>题目链接: </p>

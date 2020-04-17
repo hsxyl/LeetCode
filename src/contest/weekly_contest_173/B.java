@@ -1,4 +1,4 @@
-package weekly_contest_173;
+package contest.weekly_contest_173;
 
 import java.util.ArrayList;
 import java.util.Comparator;
