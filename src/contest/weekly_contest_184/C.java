@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * <p>题目链接: </p>
+ * <p>题目链接: https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/</p>
  * <p>题解链接: </p>
  *
  * @author xushenbao

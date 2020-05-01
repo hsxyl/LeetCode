@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * <p>题目链接: </p>
+ * <p>题目链接: https://leetcode-cn.com/contest/biweekly-contest-24/problems/minimum-value-to-get-positive-step-by-step-sum/</p>
  * <p>题解链接: </p>
  *
  * @author xushenbao

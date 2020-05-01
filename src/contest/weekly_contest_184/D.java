@@ -1,7 +1,7 @@
 package contest.weekly_contest_184;
 
 /**
- * <p>题目链接: </p>
+ * <p>题目链接: https://leetcode-cn.com/problems/restore-the-array/</p>
  * <p>题解链接: </p>
  *
  * @author xushenbao
