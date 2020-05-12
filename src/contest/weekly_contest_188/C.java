@@ -43,11 +43,6 @@ public class C {
             this.edgeArr[cnt] = new Edge(from,to,cur);
             cnt++;
         }
-        for(int i=0;i<n+1;i++) {
-            if(this.edgeArr[i]!=null) {
-                System.out.println(String.format("i=%d,edge is form = %d, to =%d,next=%d",i,this.edgeArr[i].from,this.edgeArr[i].to,this.edgeArr[i].next ));
-            }
-        }
         return dfs(0);
     }
     int dfs(int rt) {
