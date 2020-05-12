@@ -15,13 +15,14 @@ import java.util.stream.Collectors;
  */
 public class LeetCode330 {
     public int minPatches(int[] nums, int n) {
-        Set<Integer> set = Arrays.stream(nums).boxed().collect(Collectors.toSet());
-        Set<Integer> isGet = new HashSet<>();
-        for(int i=1;i<=n;i++) {
-            if(isGet.contains(i)) {
-                
-            }
-        }
+//        Set<Integer> set = Arrays.stream(nums).boxed().collect(Collectors.toSet());
+//        Set<Integer> isGet = new HashSet<>();
+//        for(int i=1;i<=n;i++) {
+//            if(isGet.contains(i)) {
+//
+//            }
+//        }
+        return 0;
     }
     public static void main(String[] args) {
 
