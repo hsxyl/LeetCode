@@ -1,6 +1,4 @@
-package util.math.sequence;
-
-import util.math.QuickPower;
+package util.math.数列;
 
 /**
  * @author xushenbao
