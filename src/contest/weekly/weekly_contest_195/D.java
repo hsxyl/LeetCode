@@ -1,11 +1,4 @@
-package contest.weekly_contest_195;
-
-import util.datastruct.binary.树状数组.BinaryIndexTree;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.function.BiFunction;
-import java.util.stream.IntStream;
+package contest.weekly.weekly_contest_195;
 
 /**
  * 给你一个数组 points 和一个整数 k 。数组中每个元素都表示二维平面上的点的坐标，并按照横坐标 x 的值从小到大排序。也就是说 points[i] = [xi, yi] ，并且在 1 <= i < j <= points.length 的前提下， xi < xj 总成立。

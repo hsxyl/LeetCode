@@ -1,7 +1,6 @@
-package contest.weekly_contest_195;
+package contest.weekly.weekly_contest_195;
 
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 /**
  * @author xushenbao

@@ -1,14 +1,8 @@
-package contest.weekly_contest_195;
+package contest.weekly.weekly_contest_195;
 
 import java.util.HashSet;
 import java.util.Set;
 import java.util.function.BiFunction;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.ObjIntConsumer;
-import java.util.function.Predicate;
-import java.util.function.Supplier;
-import java.util.function.UnaryOperator;
 
 /**
  * @author xushenbao
